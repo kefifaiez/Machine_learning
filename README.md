@@ -1,2 +1,2 @@
 # Machine_learning
-des exercices et tp corriger 
+Des exercices et des TP corrigés
